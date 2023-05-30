@@ -14,4 +14,5 @@ int main()
     d=a-b;
     cout <<"a+b=" <<c << endl;
     cout <<"a-b=" <<d << endl;
+    cout <<"a*b=" <<a*b << endl;
 }
