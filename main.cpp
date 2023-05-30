@@ -1,4 +1,5 @@
 /*training program*/
+/*Botova Ekaterina, KEz-182, 2023*/
 #include <iostream>
 
 using namespace std;
